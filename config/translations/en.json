@@ -1,8 +1,8 @@
 { 
   "home": "Home",
 
-  "hello": "Gatsby multi-language starter",
-  "subline": "Internationalization / i18n without third party plugins or packages for Posts and Pages. Different URLs dependending on the language. Focused on SEO, PWA, Image Optimization, Styled Components and more. This starter is also integrate with Netlify CMS to manage all pages, posts and images.",
+  "hello": "Lorem ipsum",
+  "subline": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis. Mi eget mauris pharetra et ultrices neque. At augue eget arcu dictum varius. In mollis nunc sed id semper. <br> Commodo viverra maecenas accumsan lacus vel facilisis volutpat est. Lorem dolor sed viverra ipsum nunc aliquet bibendum. Eget dolor morbi non arcu risus quis varius quam. Non sodales neque sodales ut. Cras semper auctor neque vitae tempus quam pellentesque nec. Vel pharetra vel turpis nunc eget lorem dolor. Viverra suspendisse potenti nullam ac tortor vitae.",
   "latestPosts": "Latest posts",
   "category": "Category", 
   "allPosts": "All Posts",
